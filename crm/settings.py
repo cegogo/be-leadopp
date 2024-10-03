@@ -172,7 +172,7 @@ USE_TZ = True
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
 EMAIL_HOST = 'smtp.gmail.com'
-#MAILGUN_API_KEY = '60e116f26932371b3d730298c63a4612-6fafb9bf-5ce97bdd'
+#MAILGUN_API_KEY = ''
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 #EMAIL_USE_SSL = True
